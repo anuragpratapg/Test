@@ -40,7 +40,7 @@
     COUT = AB + BC + AC OR 
     COUT = C (A ⊕ B) + AB
     
-    ![image](https://user-images.githubusercontent.com/18648566/155855026-08b52406-acd0-4aa8-8270-00cd5e3a2f09.png)
+    ![image]{https://user-images.githubusercontent.com/18648566/155855026-08b52406-acd0-4aa8-8270-00cd5e3a2f09.png}
     
     ![image](https://user-images.githubusercontent.com/18648566/155885321-5973448a-3382-4812-be33-be44ddfc9b64.png)
     
